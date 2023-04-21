@@ -48,6 +48,8 @@ classNames = f.read().split('\n')
 f.close()
 print(classNames)
 ```
+#### Output
+['okay', 'peace', 'thumbs up', 'thumbs down', 'call me', 'stop', 'rock', 'live long', 'fist', 'smile']
 
 ### Step 3 – Read frames from a webcam:
 ```python
