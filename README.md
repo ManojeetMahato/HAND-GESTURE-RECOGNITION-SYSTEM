@@ -10,7 +10,7 @@
 5. Numpy – 1.19.3
 
 ## Download Hand Gesture Recognition Project Code
-Please download the source code of hand gesture recognition project: [Hand Gesture Recognition ML Project Code](https://github.com/ManojeetMahato/HAND-GESTURE-RECOGNITION-SYSTEM)
+Please download the source code of hand gesture recognition project: [Hand Gesture Recognition Code](https://github.com/ManojeetMahato/HAND-GESTURE-RECOGNITION-SYSTEM)
 
 ## Steps to solve the project:
 1. Import necessary packages.
