@@ -1,4 +1,7 @@
 # HAND-GESTURE-RECOGNITION-SYSTEM
+
+We used a pre-trained Convolutional Neural Network (CNN) model to recognize hand gestures. The model was trained on a large dataset of hand gestures and was fine-tuned on our custom dataset. The project was successfully able to recognize a variety of hand gestures including thumb-up, thumb-down, fist, and peace sign. It has the potential to be used in various applications such as sign language recognition, gaming, and virtual reality.
+
 ## Prerequisites for this project:
 1. Python – 3.x (we used Python 3.8.8 in this project)
 2. OpenCV – 4.5
