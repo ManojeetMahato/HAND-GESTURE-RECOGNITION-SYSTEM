@@ -107,3 +107,7 @@ print(prediction)
   cv2.putText(frame, className, (10, 50), cv2.FONT_HERSHEY_SIMPLEX,
                	1, (0,0,255), 2, cv2.LINE_AA)
 ```
+
+![image](https://user-images.githubusercontent.com/75213442/233597990-577d3d0c-3662-4b06-809f-4b71be4d0cc1.png)
+![image](https://user-images.githubusercontent.com/75213442/233598112-c16fa174-b2dd-4d6e-b054-e8ac313e38e1.png)
+
